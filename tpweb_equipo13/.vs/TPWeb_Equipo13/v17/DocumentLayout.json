@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Crist\\OneDrive\\Escritorio\\Tp carrito\\Solucion TPWeb_Equipo13\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0019C78C-A236-4458-BADB-9DFD85A6819C}|TPWeb_Equipo13\\TPWeb_Equipo13.csproj|c:\\users\\crist\\onedrive\\escritorio\\tp carrito\\solucion tpweb_equipo13\\tpweb_equipo13\\paginamaestra.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{0019C78C-A236-4458-BADB-9DFD85A6819C}|TPWeb_Equipo13\\TPWeb_Equipo13.csproj|solutionrelative:tpweb_equipo13\\paginamaestra.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0019C78C-A236-4458-BADB-9DFD85A6819C}|TPWeb_Equipo13\\TPWeb_Equipo13.csproj|c:\\users\\crist\\onedrive\\escritorio\\tp carrito\\solucion tpweb_equipo13\\tpweb_equipo13\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0019C78C-A236-4458-BADB-9DFD85A6819C}|TPWeb_Equipo13\\TPWeb_Equipo13.csproj|solutionrelative:tpweb_equipo13\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.aspx",
+              "DocumentMoniker": "C:\\Users\\Crist\\OneDrive\\Escritorio\\Tp carrito\\Solucion TPWeb_Equipo13\\TPWeb_Equipo13\\Home.aspx",
+              "RelativeDocumentMoniker": "TPWeb_Equipo13\\Home.aspx",
+              "ToolTip": "C:\\Users\\Crist\\OneDrive\\Escritorio\\Tp carrito\\Solucion TPWeb_Equipo13\\TPWeb_Equipo13\\Home.aspx",
+              "RelativeToolTip": "TPWeb_Equipo13\\Home.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-14T00:30:35.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PaginaMaestra.Master",
+              "DocumentMoniker": "C:\\Users\\Crist\\OneDrive\\Escritorio\\Tp carrito\\Solucion TPWeb_Equipo13\\TPWeb_Equipo13\\PaginaMaestra.Master",
+              "RelativeDocumentMoniker": "TPWeb_Equipo13\\PaginaMaestra.Master",
+              "ToolTip": "C:\\Users\\Crist\\OneDrive\\Escritorio\\Tp carrito\\Solucion TPWeb_Equipo13\\TPWeb_Equipo13\\PaginaMaestra.Master",
+              "RelativeToolTip": "TPWeb_Equipo13\\PaginaMaestra.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-14T00:21:25.608Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
